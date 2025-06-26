@@ -22,8 +22,8 @@ Analyze student data to highlight performance trends and risk areas using intera
 A dashboard to support data-driven academic decisions and enable timely interventions for struggling students.
 
 ## 📁 Files Included
-- `Student_Performance_Dashboard.pbix` – Power BI dashboard file
-- `student_performance_data.csv` – Dataset used
+- `Student Performance & Risk Analysis Dashboard.pbix` – Power BI dashboard file
+- `student_performance_dataset.csv` – Dataset used
 - `README.md` – Project summary
 
 ## 👤 Author
